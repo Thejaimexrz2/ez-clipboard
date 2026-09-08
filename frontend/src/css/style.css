@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #111844;
+    --secondary-color: #4B5694;
+    --background-color: #EAE0CF;
+    --primary-text-color: #4B5694;
+    --button-color: #4B5694;
+    --extra-color: #7288AE;
+
+    --text-color: #FAFAFA;
+    --primary-font: "Roboto", sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: var(--background-color);
+}

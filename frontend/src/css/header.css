@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 10vh;
+    background-color: var(--primary-color);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app-name-container {
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--primary-color);
+}
+
+.app-name {
+    background-color: var(--primary-color);
+    font-family: var(--primary-font);
+    color: var(--text-color);
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+
