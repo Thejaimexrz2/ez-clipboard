@@ -1,10 +1,9 @@
 :root {
-    --primary-color: #111844;
-    --secondary-color: #4B5694;
-    --background-color: #EAE0CF;
-    --primary-text-color: #4B5694;
-    --button-color: #4B5694;
-    --extra-color: #7288AE;
+    --primary-color: #1d1b1b;
+    --secondary-color: #070707;
+    --background-color: #312f2f;
+    --button-color: #0a0a0a;
+    --extra-color: #f7f7f7;
 
     --text-color: #FAFAFA;
     --primary-font: "Roboto", sans-serif;
