@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Others
+apitest.py
+.venv
+__pycache__
+ez-clipboard-dev.db
