@@ -1,6 +1,6 @@
 import sqlite3
 
-DB_NAME = "ez-clipboard-dev.db"
+DB_NAME = "./ez-clipboard-dev.db"
 
 def get_connection():
     conn = sqlite3.connect(DB_NAME)

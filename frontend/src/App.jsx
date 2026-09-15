@@ -1,13 +1,12 @@
 import Header from './components/Header'
-import SendForm from './components/SendForm'
-import './css/main.css'
+import ActionContainer from './components/ActionContainer'
 
 export default function App() {
     return (
         <>
             <Header/>
             <main>
-                <SendForm></SendForm>
+                <ActionContainer/>
             </main>
         </>
     )
